@@ -1,19 +1,21 @@
-- Hi 👋, I’m Halil :)
+Hi 👋, I’m Halil :)
 
-- ABOUT ME: I born in Gaziantep, Turkey. I graduated from Adnan Menderes University. I am a webmaster and a computer engineer seeking to apply my knowledge and skills for continuous improvement. 
+ABOUT ME: I born in Gaziantep, Turkey. I graduated from Adnan Menderes University. I am a webmaster and a computer engineer seeking to apply my knowledge and skills for continuous improvement. 
 
 - 👀 I’m interested in mobile development. I'm working mostly on mobile development rather than other developments right now.
 
 - 🌱 I’m currently learning Swift and IOS Development.
 
-- I'm good at:
+
+I'm Good At:
 - Android Studio (Check out my old account for apps https://github.com/berxishere)
 - Swift and XCode
 - Google Adsense and Analytics integrations to websites.
 
-- 📫 How to reach me:
+
+- 📫 How To Reach Me:
 - mail: halildemirofc@gmail.com
-- ins: halildemiro
+- ins: instagram.com/halildemiro
 
 
 <!---
