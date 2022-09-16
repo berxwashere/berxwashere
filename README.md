@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning Swift and Mobile Developing...
 
 - 📫 How to reach me:
-mail: halildemirofc@gmail.com
-ins: halildemiro
+- mail: halildemirofc@gmail.com
+- ins: halildemiro
 
 
 <!---
