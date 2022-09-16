@@ -13,7 +13,7 @@ I'm Good At:
 - Google Adsense and Analytics integrations to websites.
 
 
-- 📫 How To Reach Me:
+📫 How To Reach Me:
 - mail: halildemirofc@gmail.com
 - ins: instagram.com/halildemiro
 
