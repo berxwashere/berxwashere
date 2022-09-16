@@ -1,8 +1,8 @@
 👋 Hi, I’m @berxwashere actually Halil :)
 
-- 👀 I’m interested in ...
+- 👀 I’m interested in mobile development.
 
-- 🌱 I’m currently learning Swift and Mobile Developing...
+- 🌱 I’m currently learning Swift and Mobile Developing.
 
 - 📫 How to reach me:
 - mail: halildemirofc@gmail.com
