@@ -1,6 +1,6 @@
 Hi 👋, I’m Halil :)
 
-ABOUT ME: 
+About Me: 
 - I born in Gaziantep, Turkey. I graduated from Adnan Menderes University. I am a webmaster and a computer engineer seeking to apply my knowledge and skills for continuous improvement. 
 
 - 👀 I’m interested in mobile development. I'm working mostly on mobile development rather than other developments right now.
