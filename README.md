@@ -1,8 +1,15 @@
-👋 Hi, I’m @berxwashere actually Halil :)
+- Hi 👋, I’m Halil :)
 
-- 👀 I’m interested in mobile development.
+- ABOUT ME: I born in Gaziantep, Turkey. I graduated from Adnan Menderes University. I am a webmaster and a computer engineer seeking to apply my knowledge and skills for continuous improvement. 
 
-- 🌱 I’m currently learning Swift and Mobile Developing.
+- 👀 I’m interested in mobile development. I'm working mostly on mobile development rather than other developments right now.
+
+- 🌱 I’m currently learning Swift and IOS Development.
+
+- I'm good at:
+- Android Studio (Check out my old account for apps https://github.com/berxishere)
+- Swift and XCode
+- Google Adsense and Analytics integrations to websites.
 
 - 📫 How to reach me:
 - mail: halildemirofc@gmail.com
