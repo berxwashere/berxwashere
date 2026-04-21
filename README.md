@@ -3,7 +3,7 @@
   <h3 align="center">Software Developer | Automation Architect | Mobile Developer</h3>
 </div>
 
-I specialize in designing and developing specialized browser automation tools and high-fidelity mobile applications. I am highly motivated by continuous learning and pushing technical boundaries every single day.
+I specialize in designing and developing advanced browser automations and high-fidelity cross-platform mobile applications. I am highly motivated by continuous learning and pushing technical boundaries every single day.
 
 ---
 
@@ -117,10 +117,10 @@ I specialize in designing and developing specialized browser automation tools an
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=berxwashere&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="berxwashere GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=berxwashere&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="berxwashere GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=berxwashere&theme=tokyonight&hide_border=true&background=0D1117" alt="berxwashere GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=berxwashere&theme=radical&hide_border=true&background=0D1117" alt="berxwashere GitHub Streak" />
     </td>
   </tr>
 </table>
