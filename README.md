@@ -15,7 +15,7 @@ I specialize in designing and developing specialized browser automation tools an
 
 ---
 ### 🚀 Fun Fact:
-When I'm not on terminal, I manage large space and NASA-themed communities on social platforms!
+🛰️🪐👨‍🚀 When I'm not on terminal, I manage large space and NASA-themed communities on social platforms!
 
 
 ---
