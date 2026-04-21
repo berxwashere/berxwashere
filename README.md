@@ -20,7 +20,7 @@ I specialize in designing and developing advanced browser automations and high-f
 ---
 <table align="center" width="100%">
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="3">
        <strong><samp>Contact:</samp></strong>
     </td>
   </tr>
@@ -42,7 +42,7 @@ I specialize in designing and developing advanced browser automations and high-f
 
 <table align="center" width="100%">
   <tr>
-    <td align="center">
+    <td>
       <strong><samp>Main Skills:</samp></strong>
     </td>
   </tr>
@@ -64,7 +64,7 @@ I specialize in designing and developing advanced browser automations and high-f
 
 <table align="center" width="100%">
   <tr>
-    <td align="center">
+    <td>
       <strong><samp>Side Skills:</samp></strong>
     </td>
   </tr>
