@@ -20,19 +20,19 @@ I specialize in designing and developing advanced browser automations and high-f
 ---
 <table align="center" width="100%">
   <tr>
-    <td colspan="3">
+    <td colspan="2">
        <strong><samp>Contact:</samp></strong>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="mailto:halildemirofc@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="26" />
       </a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/halildemiro">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="26" />
       </a>
     </td>
   </tr>
